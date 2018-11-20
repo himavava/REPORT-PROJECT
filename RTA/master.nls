@@ -1,0 +1,10 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{GUI}]\begingroup Graphical User Interface\nomeqref {0}
+		\nompageref{vii}
+  \item [{HTTP}]\begingroup Hyper Text Markup Language\nomeqref {0}
+		\nompageref{vii}
+
+\end{thenomenclature}
